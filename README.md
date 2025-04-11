@@ -13,7 +13,7 @@ We use tensorflow (https://www.tensorflow.org) for our implementation.
 We use `.mat` file for TVNet generated results saving, and `Matlab` for results [`visualization`](http://sintel.is.tue.mpg.de). 
 
 ## Installation
-Our current release has been tested on Ubuntu 16.04.
+Our current release has been tested on Ubuntu 16.04 .
 
 #### Clone the repository
 ```
